@@ -2842,6 +2842,16 @@ Scheme
 			}
 		}
 		
+		GeosansLight8
+		{
+			"1"
+			{
+				"name"		"GeosansLight"
+				"tall"		"8"
+				"antialias" "1"
+			}
+		}
+		
 		GeosansLight12
 		{
 			"1"
