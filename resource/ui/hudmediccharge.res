@@ -60,7 +60,7 @@
 		"font"			"GeosansLight42"
 		"fgcolor"		"Black"
 		"xpos"			"188"
-		"ypos"			"57"
+		"ypos"			"58"
 		"zpos"			"2"
 		"wide"			"55"
 		"tall"			"40"
@@ -68,6 +68,8 @@
 		"enabled"		"0"
 		"textAlignment"	"center"	
 		"labelText"		"#TF_UberchargeMinHUD"
+		"autoResize"	"1"
+		"pinCorner"		"2"
 		
 	}						
 
